@@ -1,8 +1,6 @@
-> Note: Delete the labels in the new repo and use https://github.com/jvandemo/copy-github-labels-cli to copy the ones found here to the new repo
+# 8fold USWDS for the United States Web Design System
 
-# 8fold {Name of product or project} for {language or framework}
-
-{brief description}
+The United States Web Design System (USWDS) makes it easy to build accessible, mobile-friendly websites targeted at the United States Federal Government. The [USWDS](https://designsystem.digital.gov) impressed me as a contributor while it was in beta and has definitely grown since those early days and still remains a trusted references for accessible HTML patterns on the web.
 
 ## Installation
 
